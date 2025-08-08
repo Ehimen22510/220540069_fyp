@@ -1,0 +1,12 @@
+streamlit 
+pinecone-client == 3.0.0
+sentence_transformers
+langchain 
+langchain_community
+langchain_pinecone
+langchain_core
+langchain_openai
+sentence_transformers
+numpy == 1.26.4
+dotenv
+bs4
